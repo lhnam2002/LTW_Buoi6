@@ -1,0 +1,15 @@
+E:\Nam_3_2023_2024\LapTrinhWin\Bt\BaiTapBuoi6\bin\Debug\BaiTapBuoi6.exe.config
+E:\Nam_3_2023_2024\LapTrinhWin\Bt\BaiTapBuoi6\bin\Debug\BaiTapBuoi6.exe
+E:\Nam_3_2023_2024\LapTrinhWin\Bt\BaiTapBuoi6\bin\Debug\BaiTapBuoi6.pdb
+E:\Nam_3_2023_2024\LapTrinhWin\Bt\BaiTapBuoi6\bin\Debug\EntityFramework.dll
+E:\Nam_3_2023_2024\LapTrinhWin\Bt\BaiTapBuoi6\bin\Debug\EntityFramework.SqlServer.dll
+E:\Nam_3_2023_2024\LapTrinhWin\Bt\BaiTapBuoi6\bin\Debug\EntityFramework.xml
+E:\Nam_3_2023_2024\LapTrinhWin\Bt\BaiTapBuoi6\bin\Debug\EntityFramework.SqlServer.xml
+E:\Nam_3_2023_2024\LapTrinhWin\Bt\BaiTapBuoi6\obj\Debug\BaiTapBuoi6.csproj.AssemblyReference.cache
+E:\Nam_3_2023_2024\LapTrinhWin\Bt\BaiTapBuoi6\obj\Debug\BaiTapBuoi6.frmDSNV.resources
+E:\Nam_3_2023_2024\LapTrinhWin\Bt\BaiTapBuoi6\obj\Debug\BaiTapBuoi6.Properties.Resources.resources
+E:\Nam_3_2023_2024\LapTrinhWin\Bt\BaiTapBuoi6\obj\Debug\BaiTapBuoi6.csproj.GenerateResource.cache
+E:\Nam_3_2023_2024\LapTrinhWin\Bt\BaiTapBuoi6\obj\Debug\BaiTapBuoi6.csproj.CoreCompileInputs.cache
+E:\Nam_3_2023_2024\LapTrinhWin\Bt\BaiTapBuoi6\obj\Debug\BaiTapBuoi6.csproj.CopyComplete
+E:\Nam_3_2023_2024\LapTrinhWin\Bt\BaiTapBuoi6\obj\Debug\BaiTapBuoi6.exe
+E:\Nam_3_2023_2024\LapTrinhWin\Bt\BaiTapBuoi6\obj\Debug\BaiTapBuoi6.pdb
